@@ -1,0 +1,3 @@
+MIN_ARBITRAGE_PROFIT = 0.5
+SCAN_INTERVAL = 5  # minutes
+RISK_TOLERANCE = 'medium'
